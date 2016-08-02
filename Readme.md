@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Валентина Семенова](https://up.htmlacademy.ru/htmlcss/14/user/208018).
+* Студент: [Валентина Семенова adgval](https://up.htmlacademy.ru/htmlcss/14/user/208018).
 
 ---
 
